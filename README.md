@@ -1,2 +1,2 @@
-# hidromobil
+# Hidromobil
 Telemetry app for TEKNOFEST 
